@@ -1,6 +1,6 @@
 # QuickSort-Mips
 
-Two quicksort files are provided TimedQuicksort displays only time. SwapsTimeQuicksort displays time and swaps.
+Two quicksort files are provided TimedQuicksort displays only time. SwapsTimeQuicksort displays time and swaps; this one also has partition as a macro.
 
 This MIPS assembly code, developed in MARS IDE, implements the quick sort algorithm to sort an array of integers. The program follows these steps:
 
